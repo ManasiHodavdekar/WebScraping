@@ -7,6 +7,7 @@ Linkedin Jobs Scraping
     
     
 **Download** chrome driver: https://chromedriver.chromium.org/
+
 How to download chrome driver: https://www.youtube.com/watch?v=dz59GsdvUF8
     
 
